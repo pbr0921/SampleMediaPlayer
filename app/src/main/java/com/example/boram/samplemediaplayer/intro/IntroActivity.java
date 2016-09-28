@@ -23,6 +23,8 @@ public class IntroActivity extends Activity {
         handler = new Handler();
         handler.postDelayed(runnable,3000);
 
+
+
     }
     Runnable runnable = new Runnable() {
         @Override
