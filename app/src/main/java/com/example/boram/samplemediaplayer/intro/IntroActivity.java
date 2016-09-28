@@ -13,7 +13,6 @@ public class IntroActivity extends Activity {
 
     public Handler handler;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
